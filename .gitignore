@@ -1,0 +1,8 @@
+# Archivo (Git -Ignore)
+# Revisa el repositorio de gitignore de GitHub oficial
+
+*.sln
+*.css
+
+# *.css => Para ignorar por extensiones de archivos
+# [Bb]in/ => Para ignorar por direcciones de carptea
