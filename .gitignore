@@ -6,3 +6,6 @@
 
 # *.css => Para ignorar por extensiones de archivos
 # [Bb]in/ => Para ignorar por direcciones de carptea
+
+# Ignore .venv for python environment
+.venv
